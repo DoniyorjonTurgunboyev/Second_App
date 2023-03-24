@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1055251950882",
+    "project_id": "task-8b984",
+    "storage_bucket": "task-8b984.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055251950882:android:74271bf83c168efed3897b",
+        "android_client_info": {
+          "package_name": "uz.smartarena.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055251950882-1d8lgbksjdaul5ful9tuo2mpe67q93cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-l9yPyy78BEfi8E_X-jGfuu4gM-vFog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055251950882-1d8lgbksjdaul5ful9tuo2mpe67q93cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055251950882:android:124d970ceffab339d3897b",
+        "android_client_info": {
+          "package_name": "uz.smartarena.secondapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055251950882-1d8lgbksjdaul5ful9tuo2mpe67q93cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-l9yPyy78BEfi8E_X-jGfuu4gM-vFog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055251950882-1d8lgbksjdaul5ful9tuo2mpe67q93cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
